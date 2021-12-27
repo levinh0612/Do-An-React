@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "id": "599f65b0-cfb2-431b-b394-1ca5d9ea8f04",
+      "name": "xuan truong",
+      "email": "xuantruong@gmail.com",
+      "phone": "086123123"
+    },
+    {
+      "id": "5f1ab560-9ffc-463c-b809-c50a365bf620",
+      "name": "van anh",
+      "email": "vananh@gmail.com",
+      "phone": "097823233"
+    },
+    {
+      "id": "dfcdc8c3-ca94-4fc7-84a8-a5b137bb7ea6",
+      "name": "Nguyễn Hữu Lê Vinh",
+      "email": "nguyenhuulevinh@gmail.com",
+      "phone": "+84354640641"
+    }
+  ]
+}
